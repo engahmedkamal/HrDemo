@@ -17,14 +17,14 @@ import java.util.ArrayList;
 @Configuration
 @EnableSwagger2
 public class SwaggerConfig {
-    private final static String TITLE = "Time Slots & Capacity REST API";
-    private final static String DESCRIPTION = "Time Slots and Capacity services";
+    private final static String TITLE = "HrDemo REST API";
+    private final static String DESCRIPTION = "HrDemo REST API";
     private final static String VERSION = "1.0";
     private final static String TERMS_OF_SERVICE = "Terms of service";
-    private final static String CONTACT_PERSON_NAME = "Elsayed Abdel Gelil.";
+    private final static String CONTACT_PERSON_NAME = "Ahmed Kamal.";
     private final static String CONTACT_PERSON_URL = "";
-    private final static String CONTACT_PERSON_EMAIL = "sayed.b@fetchr.us";
-    private final static String LICENSE = "All rights for fetchr.us";
+    private final static String CONTACT_PERSON_EMAIL = "eng.ahmedkamal91@gmail.com";
+    private final static String LICENSE = "All rights for Ahmed Kamal";
     private final static String LICENSE_URL = "";
 
 	@Bean
